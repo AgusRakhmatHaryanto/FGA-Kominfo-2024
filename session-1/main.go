@@ -9,4 +9,5 @@ func main() {
 	initDB()
 	variableType()
 	dataTypes()
+	operatorsInit()
 }
